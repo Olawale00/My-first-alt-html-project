@@ -14,7 +14,7 @@
             color: white;
             text-align: center;
           }
-          
+
 		/* Styling the Form (Color, Padding, Shadow) */
 		form {
 			background-color: #fff;
@@ -69,3 +69,8 @@
 			margin-top: 50px;
 			margin-bottom: 20px;
 		}
+
+        button:hover {
+            background-color:#002ead;
+            transition: 0.7s;
+        }
