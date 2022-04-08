@@ -19,7 +19,7 @@
 		form {
 			background-color: #fff;
 			max-width: 500px;
-			margin: 50px auto;
+			margin:  auto;
 			padding: 30px 20px;
 			box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
 		}
@@ -59,7 +59,7 @@
 
 		/* Styling Button */
 		button {
-			background-color: #05c46b;
+			background-color: #86be1d;
 			border: 1px solid #777;
 			border-radius: 2px;
 			font-family: inherit;
