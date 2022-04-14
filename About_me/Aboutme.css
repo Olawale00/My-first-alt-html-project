@@ -1,0 +1,29 @@
+footer {
+    text-align: center;
+    padding: 50px;
+  }
+i {
+  padding: 10px;
+  color: black;
+}
+  hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  } 
+body {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: rgb(255, 255, 255);
+  background-image: url(green.jpg);
+  font-size: larger;
+}
+div {
+  background-color: black;
+}
